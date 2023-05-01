@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [17.7.3](https://github.com/yargs/yargs/compare/v17.7.2...v17.7.3) (2023-05-01)
+
+
+### Bug Fixes
+
+* coerce should play well with parser configuration ([#2308](https://github.com/yargs/yargs/issues/2308)) ([8343c66](https://github.com/yargs/yargs/commit/8343c66eac10fbe60e85fc17adfe07eadd45cb35))
+* exit after async handler done ([#2313](https://github.com/yargs/yargs/issues/2313)) ([e326cde](https://github.com/yargs/yargs/commit/e326cde53173e82407bf5e79cfdd58a199bcb909))
+
 ## [17.7.2](https://github.com/yargs/yargs/compare/v17.7.1...v17.7.2) (2023-04-27)
 
 
